@@ -37,7 +37,7 @@ build
 *.swp
 
 # Android Test files Auto generated
-androidTest/
+
 test/
 
 gradle.properties
